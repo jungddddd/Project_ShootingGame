@@ -21,7 +21,7 @@ public class StartFrame extends JFrame{
 	private Image startBoogieImg = startBoogieIcon.getImage();
 	private JButton startBtn = new JButton(startIcon);
 	public StartFrame() {
-		setTitle("½´ÆÃ °ÔÀÓ");
+		setTitle("Â½Â´Ã†Ãƒ Â°Ã”Ã€Ã“");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(900,700);
 		setLocation(200,50);
