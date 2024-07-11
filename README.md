@@ -12,10 +12,3 @@
 스페이스바로 공격 가능
 
 ---
-
-## Play
-
-![SpaceBoogie](https://github.com/o3oYannie/myProject_shootingGame/assets/115938033/1ccbab1b-f655-44ab-a673-f79a6853797c)
-
-
-![spaceBoogie2](https://github.com/o3oYannie/myProject_shootingGame/assets/115938033/1386a2cc-05d9-4c29-9538-66353b607592)
